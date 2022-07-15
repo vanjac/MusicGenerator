@@ -5,10 +5,6 @@
  */
 package music;
 
-/**
- *
- * @author jacob
- */
 public class WeightedMelodyIteratorProperties {
     public WeightedMelodyIteratorProperties(
             double distanceWeight,

@@ -11,10 +11,6 @@ import javax.sound.midi.*;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 
-/**
- *
- * @author jacob
- */
 public class Music extends Thread {
     private boolean isPlaying;
     private double measureLength;

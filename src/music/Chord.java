@@ -7,10 +7,6 @@ package music;
 
 import java.util.*;
 
-/**
- *
- * @author jacob
- */
 public interface Chord {
     public Key getRoot();
     

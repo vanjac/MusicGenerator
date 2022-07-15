@@ -7,10 +7,6 @@ package music;
 
 import java.util.*;
 
-/**
- *
- * @author jacob
- */
 public interface RhythmIterator extends Iterator<List<Integer>> {
     //0 is a whole note, 1 is a half note, 2 is a quarter note, etc
     @Override

@@ -7,10 +7,6 @@ package music;
 
 import java.util.*;
 
-/**
- *
- * @author jacob
- */
 public class WeightedMelodyIterator implements MelodyIterator {
     private enum NoteType {
         ROOT, CHORD, SCALE, OTHER

@@ -7,10 +7,6 @@ package music;
 
 import java.util.*;
 
-/**
- *
- * @author jacob
- */
 public class MajorChord implements Chord {
     private final Key root;
     

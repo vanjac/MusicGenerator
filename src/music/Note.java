@@ -5,10 +5,6 @@
  */
 package music;
 
-/**
- *
- * @author jacob
- */
 public class Note {
     private final Key key;
     private final int octave;

@@ -7,10 +7,6 @@ package music;
 
 import java.util.*;
 
-/**
- *
- * @author jacob
- */
 public class FractalRhythm implements RhythmIterator {
     private final int limit;
     private final Random random;

@@ -7,10 +7,6 @@ package music;
 
 import java.util.*;
 
-/**
- *
- * @author jacob
- */
 public class SimpleChordIterator implements ChordIterator {
     //Previous chord:
     private boolean major;

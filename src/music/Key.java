@@ -8,10 +8,6 @@ package music;
 import java.util.*;
 import java.util.Map.*;
 
-/**
- *
- * @author jacob
- */
 public enum Key {
     
     C (0, "C", "C"),

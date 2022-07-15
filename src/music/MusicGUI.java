@@ -7,10 +7,6 @@ package music;
 
 import javax.swing.*;
 
-/**
- *
- * @author jacob
- */
 public class MusicGUI extends javax.swing.JFrame {
     Music music;
     boolean musicPlaying;
